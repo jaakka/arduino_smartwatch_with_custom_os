@@ -5,6 +5,8 @@ This is
 
 
 Custom code  [editor and simulation](https://jaakkagames.net/alykello/ohjelma/index_edit.php)
+editor sourcecode https://github.com/jaakka/smartwatch_application_creator_page
+
 
 This smartwatch can run custom .jp languane.  With this method i can run programs from sd card. 
 ![image](https://github.com/jaakka/arduino_smartwatch_with_custom_os/assets/25456491/2b31ef0a-8489-4fd3-b5ca-ad0ce7998774)
